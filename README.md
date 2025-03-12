@@ -1,2 +1,1 @@
-# prepcurso-henry-1
-segundo ensayo del repositorio del prepcurso henry
+prueba de como crear un repositorio y como clonarlo de git hube a mi computador 
